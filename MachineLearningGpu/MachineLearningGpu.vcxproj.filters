@@ -5,11 +5,16 @@
     <ClCompile Include="src\Mat.cpp" />
     <ClCompile Include="src\OperationsGpu.cpp" />
     <ClCompile Include="src\GLHelpers\Program.cpp" />
+    <ClCompile Include="src\NeuralNetTrainer.cpp" />
+    <ClCompile Include="src\NeuralNet.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Mat.h" />
     <ClInclude Include="src\OperationsGpu.h" />
     <ClInclude Include="src\GLHelpers\Buffer.h" />
     <ClInclude Include="src\GLHelpers\Program.h" />
+    <ClInclude Include="src\Mnist.h" />
+    <ClInclude Include="src\NeuralNetTrainer.h" />
+    <ClInclude Include="src\NeuralNet.h" />
   </ItemGroup>
 </Project>
